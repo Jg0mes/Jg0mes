@@ -1,51 +1,41 @@
-<h1 align="center">Olá, eu sou o José Gomes 👋</h1>
-<h3 align="center">Estudante de programação · Porto, Portugal</h3>
+# José Gomes
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Estudante+apaixonado+por+tecnologia;Java+%7C+Python+%7C+Web+%7C+SQL;Sempre+a+aprender+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+**Estudante de Programação** · Porto, Portugal
 
----
+Estudante focado em desenvolvimento de software, com interesse em programação orientada a objetos, desenvolvimento web e bases de dados. Neste momento estou a aprofundar conhecimentos em Java e Python e a desenvolver projetos práticos para consolidar a minha formação.
 
-### 🙋‍♂️ Sobre mim
-
-- 🎓 Sou estudante e estou a construir a minha base em desenvolvimento de software
-- 🌱 Neste momento estou a aprender mais sobre **Java**, **Python** e **desenvolvimento web**
-- 💡 Gosto de resolver problemas e transformar ideias em projetos
-- 🤝 Aberto a colaborar em projetos e a oportunidades de estágio
-- 📍 Porto / Santo Tirso, Portugal
+Disponível para estágios e para colaborar em projetos.
 
 ---
 
-### 🛠️ Tecnologias
+## Competências técnicas
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+**Linguagens**
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 📊 Estatísticas
+**Web**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jg0mes&theme=tokyonight&hide_border=true&locale=pt" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 📫 Contacto
+## Atividade
 
-<p>
-  <a href="https://www.instagram.com/__jose3gomes__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <!-- Substitui O-TEU-LINK pelo teu perfil do LinkedIn -->
-  <a href="https://www.linkedin.com/in/O-TEU-LINK/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<img src="https://streak-stats.demolab.com?user=Jg0mes&theme=github-dark-blue&hide_border=true&locale=pt" alt="Estatísticas de contribuições" />
 
-<p align="center">⭐ Obrigado pela visita!</p>
+---
+
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/O-TEU-LINK/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__jose3gomes__/)
