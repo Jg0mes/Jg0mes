@@ -35,11 +35,6 @@
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jg0mes&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-pt" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jg0mes&layout=compact&theme=tokyonight&hide_border=true&locale=pt-pt" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Jg0mes&theme=tokyonight&hide_border=true&locale=pt" />
 </p>
 
