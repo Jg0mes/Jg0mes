@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Jos%C3%A9%20Gomes&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Estudante%20de%20Programa%C3%A7%C3%A3o%20%E2%80%A2%20Porto%2C%20Portugal&descSize=18&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Java+%E2%80%A2+Python+%E2%80%A2+Web+%E2%80%A2+SQL;Sempre+a+aprender+e+a+construir;Dispon%C3%ADvel+para+est%C3%A1gios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=26&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Java%20%E2%80%A2%20Python%20%E2%80%A2%20Web%20%E2%80%A2%20SQL;Sempre%20a%20aprender%20e%20a%20construir;Dispon%C3%ADvel%20para%20est%C3%A1gios" alt="Java, Python, Web, SQL" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Sou estudante de programação e gosto de transformar ideias em projetos reais. Tenho trabalhado sobretudo com **Java** e **Python**, e estou a aprofundar **desenvolvimento web** e **bases de dados**. Procuro estágios e projetos onde possa aprender com equipas experientes e contribuir com código de qualidade.
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=500&size=24&duration=2200&pause=1000&color=C9D1D9&vCenter=true&multiline=true&repeat=false&width=600&height=190&lines=Sou%20estudante%20de%20programa%C3%A7%C3%A3o%20e%20adoro;transformar%20ideias%20em%20projetos%20reais.;Trabalho%20sobretudo%20com%20Java%20e%20Python;e%20estou%20a%20aprofundar%20web%20e%20bases%20de%20dados.;Procuro%20est%C3%A1gios%20para%20aprender%20e%20crescer!" alt="Sou estudante de programação e adoro transformar ideias em projetos reais. Trabalho sobretudo com Java e Python e estou a aprofundar web e bases de dados. Procuro estágios para aprender e crescer!" />
 
 <br/>
 
