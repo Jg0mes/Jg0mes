@@ -1,41 +1,37 @@
-# José Gomes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Jos%C3%A9%20Gomes&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Estudante%20de%20Programa%C3%A7%C3%A3o%20%E2%80%A2%20Porto%2C%20Portugal&descSize=18&descAlignY=58&animation=fadeIn" />
 
-**Estudante de Programação** · Porto, Portugal
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Java+%E2%80%A2+Python+%E2%80%A2+Web+%E2%80%A2+SQL;Sempre+a+aprender+e+a+construir;Dispon%C3%ADvel+para+est%C3%A1gios" alt="Typing SVG" />
+</p>
 
-Estudante focado em desenvolvimento de software, com interesse em programação orientada a objetos, desenvolvimento web e bases de dados. Neste momento estou a aprofundar conhecimentos em Java e Python e a desenvolver projetos práticos para consolidar a minha formação.
+<p align="center">
+  <a href="https://www.linkedin.com/in/O-TEU-LINK/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/__jose3gomes__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/Jg0mes"><img src="https://komarev.com/ghpvc/?username=Jg0mes&label=Visitas&color=1f6feb&style=for-the-badge" /></a>
+</p>
 
-Disponível para estágios e para colaborar em projetos.
+<br/>
 
----
+## Sobre mim
 
-## Competências técnicas
+Sou estudante de programação e gosto de transformar ideias em projetos reais. Tenho trabalhado sobretudo com **Java** e **Python**, e estou a aprofundar **desenvolvimento web** e **bases de dados**. Procuro estágios e projetos onde possa aprender com equipas experientes e contribuir com código de qualidade.
 
-**Linguagens**
+<br/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+## Tecnologias
 
-**Web**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode&theme=dark" />
+  </a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<br/>
 
-**Ferramentas**
+## Atividade no GitHub
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jg0mes&background=0d1117&border=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d&border_radius=10&locale=pt" />
+</p>
 
----
-
-## Atividade
-
-<img src="https://streak-stats.demolab.com?user=Jg0mes&theme=github-dark-blue&hide_border=true&locale=pt" alt="Estatísticas de contribuições" />
-
----
-
-## Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/O-TEU-LINK/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/__jose3gomes__/)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" />
