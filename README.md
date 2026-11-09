@@ -21,9 +21,7 @@ Sou estudante de programação e gosto de transformar ideias em projetos reais. 
 ## Tecnologias
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode&theme=dark" />
-  </a>
+  <img width="100%" src="./assets/tecnologias.svg" alt="Tecnologias" />
 </p>
 
 <br/>
